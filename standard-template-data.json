@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-09-10T05:39:08.362985080Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-09-24T07:39:36.424637280Z",
     "templateType": "trip_d",
     "propertyId": "56fcc70c-8743-4229-b0a3-ea04832291aa",
     "homepageId": "638c8a71-ffe3-404b-84b4-d2f34d3485f4"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 20시 이후 입실 시 사전 문의",
-    "usageGuide": "[공지사항]\n- 오션뷰 스파 가능\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 20시 이후 입실 시 사전 문의\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n- 유아(24개월 미만): 무료이나 인원에는 포함\n\n[공용바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 가스그릴\n- 이용 요금: 4인 기준 20,000원 2인 추가시 10,000원 추가 (1박기준/현장결제)\n- 신청 시간: 16:00 ~ 16:00\n- 이용 시간: 17:00 ~ 22:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n\n[공용수영장]\n- 운영 기간 : 26년 09월 30일까지\n- 온도: 냉수, 미온수 25℃ \n- 이용 형태: 큰 수영장(미온수), 작은수영장(냉수) \n- 이용 요금: 무료\n- 이용 시간: 15:00 ~ 22:00\n- 이용 복장: 자유복장\n- 수영장 크기: 5m x 5m x 1.6m(큰 수영장)/5mx10mx1.3m(작은 수영장)\n※ 다이빙 금지\n※ 미온수 이용 필요 시 숙소로 사전 문의 필수\n\n[스파]\n- 이용 객실: 전객실\n- 스파 형태: 월풀스파\n- 수용 인원: 2명 ~ 4명\n- 이용 요금: 무료\n- 이용 시간: 입실후 ~ 22:00\n- 온도 조절: 가능\n- 입욕제 사용: 불가\n※ 입욕제 사용 시 10만원 벌금 부과\n\n[불멍]\n- 이용 요금: 객실당 20,000원(1박기준/현장결제)\n- 이용 시간: 17:00 ~ 23:00\n- 이용 장소: 식당 바로 앞\n\n[부대시설]\n[낚시체험]\n- 이용 요금: 10,000원(낚시대 포함) (1박기준/현장결제)\n- 이용 시간: 15:00 ~ 22:00\n- 장소: 바다 앞 도보 1분\n※ 사전 예약 및 현장 결제 가능\n※ 1객실 낚시대 1개 무료, 추가 시 10,000원\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 넷플릭스 이용 가능\n- OTT 이용 가능\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 객실 당 가능대수 10대\n\n[교통편]\n-자가용 이용시-\n거가대교방면 거가대교진입 >터널진입 > 통영,시청 방면 > 가조도 방면 > 약 3.7KM직진 후 우회전 > 약2KM직진 > 거제 라이트하우스\n거제대교방면 거제대교진입 > 장승포,신현 방면 > 가조도방면 > 약 3.7KM직진 후 우회전 > 약2KM직진 > 거제 라이트하우스\n\n-대중교통 이용시-\n고현터미널 방면 고현버스터미널 정류장 > 43-1(고현.가조도.고현) 승차 > 실전상회 정류장 하차 > 약200M이동 > 거제 라이트하우스\n장승포터미널 방면 장승포버스터미널 > 문화상가 정류장 > 10(능포.고현)승차 > 고현버스터미널 하차 > 43-1(고현.가조도.고현) 승차 > 실전상회 정류장 하차 > 약200M이동 > 거제 라이트하우스",
+    "usageGuide": "- 오션뷰 스파 가능\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 20시 이후 입실 시 사전 문의\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 무료\n(1박기준/현장결제)\n- 유아(24개월 미만): 무료이나 인원에는 포함\n\n[공용바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 가스그릴\n- 이용 요금: 4인 기준 20,000원 2인 추가시 10,000원 추가 (1박기준/현장결제)\n- 신청 시간: 16:00 ~ 16:00\n- 이용 시간: 17:00 ~ 22:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n\n[공용수영장]\n- 운영 기간 : 26년 09월 30일까지\n- 온도: 냉수, 미온수 25℃ \n- 이용 형태: 큰 수영장(미온수), 작은수영장(냉수) \n- 이용 요금: 무료\n- 이용 시간: 15:00 ~ 22:00\n- 이용 복장: 자유복장\n- 수영장 크기: 5m x 5m x 1.6m(큰 수영장)/5mx10mx1.3m(작은 수영장)\n※ 다이빙 금지\n※ 미온수 이용 필요 시 숙소로 사전 문의 필수\n\n[스파]\n- 이용 객실: 전객실\n- 스파 형태: 월풀스파\n- 수용 인원: 2명 ~ 4명\n- 이용 요금: 무료\n- 이용 시간: 입실후 ~ 22:00\n- 온도 조절: 가능\n- 입욕제 사용: 불가\n※ 입욕제 사용 시 10만원 벌금 부과\n\n[불멍]\n- 이용 요금: 객실당 20,000원(1박기준/현장결제)\n- 이용 시간: 17:00 ~ 23:00\n- 이용 장소: 식당 바로 앞\n\n[부대시설]\n[낚시체험]\n- 이용 요금: 10,000원(낚시대 포함) (1박기준/현장결제)\n- 이용 시간: 15:00 ~ 22:00\n- 장소: 바다 앞 도보 1분\n※ 사전 예약 및 현장 결제 가능\n※ 1객실 낚시대 1개 무료, 추가 시 10,000원\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 넷플릭스 이용 가능\n- OTT 이용 가능\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 객실 당 가능대수 10대\n\n[교통편]\n-자가용 이용시-\n거가대교방면 거가대교진입 >터널진입 > 통영,시청 방면 > 가조도 방면 > 약 3.7KM직진 후 우회전 > 약2KM직진 > 거제 라이트하우스\n거제대교방면 거제대교진입 > 장승포,신현 방면 > 가조도방면 > 약 3.7KM직진 후 우회전 > 약2KM직진 > 거제 라이트하우스\n\n-대중교통 이용시-\n고현터미널 방면 고현버스터미널 정류장 > 43-1(고현.가조도.고현) 승차 > 실전상회 정류장 하차 > 약200M이동 > 거제 라이트하우스\n장승포터미널 방면 장승포버스터미널 > 문화상가 정류장 > 10(능포.고현)승차 > 고현버스터미널 하차 > 43-1(고현.가조도.고현) 승차 > 실전상회 정류장 하차 > 약200M이동 > 거제 라이트하우스",
     "reservationGuide": "- 오션뷰 스파 가능",
     "province": "도/시",
     "city": "시/군/구",
@@ -365,9 +365,9 @@
       {
         "thumbnail": [
           {
-            "id": "d2e1e0d1-3203-4534-afcf-4d475a689b2f",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/IhX9Nmr0U2L6.jpg",
-            "sortOrder": 3,
+            "id": "de2a57ea-514b-46ca-9d66-b9aef90db2b7",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/TeLEGbzS1BHk.jpg",
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -375,25 +375,9 @@
         ],
         "exterior": [
           {
-            "id": "5db73f61-9b80-47b5-95fa-531a748f924e",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/LKFJQdhot8gR.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
             "id": "9ab86320-71e0-4975-a29c-5ecc46b99dfd",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/TM4dJ8U9lFbN.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "de2a57ea-514b-46ca-9d66-b9aef90db2b7",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/TeLEGbzS1BHk.jpg",
-            "sortOrder": 6,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -401,7 +385,7 @@
           {
             "id": "5c6599dc-0e25-4771-af9b-f8010fb631eb",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/oJf89blUQ3F5.jpg",
-            "sortOrder": 7,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -409,7 +393,15 @@
           {
             "id": "5a796efc-a3bf-4c76-a0fa-29f1d276dccb",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/7Jk4vWuyTPh8.jpg",
-            "sortOrder": 8,
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "5db73f61-9b80-47b5-95fa-531a748f924e",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/LKFJQdhot8gR.jpg",
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -417,7 +409,7 @@
           {
             "id": "79a6bd3d-68ed-4aad-bcc9-9c6d99d0a625",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/fOD3WqY1J0ES.jpg",
-            "sortOrder": 9,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -425,7 +417,7 @@
           {
             "id": "2a98c92b-978f-46b4-b18d-e80492c7a8e7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/KhRdpjfauCcm.jpg",
-            "sortOrder": 10,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -433,7 +425,7 @@
           {
             "id": "7b6547dd-55be-4083-a322-e45e09d7dc25",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/8XG1b3BqjHfU.jpg",
-            "sortOrder": 11,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -441,7 +433,15 @@
           {
             "id": "62463c73-2528-4a96-afdc-44b73d75f120",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/9gUFTR8HXPfl.jpg",
-            "sortOrder": 13,
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "d2e1e0d1-3203-4534-afcf-4d475a689b2f",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/IhX9Nmr0U2L6.jpg",
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -450,7 +450,10 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ]
+    ],
+    "tripPropertyId": "8219",
+    "partnerType": "distributor_b",
+    "tripProviderName": "트립일레븐"
   },
   "rooms": [
     {
