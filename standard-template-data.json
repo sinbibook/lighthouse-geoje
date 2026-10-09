@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-10-01T07:52:48.951077328Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-10-09T07:38:22.326568199Z",
     "templateType": "trip_d",
     "propertyId": "56fcc70c-8743-4229-b0a3-ea04832291aa",
     "homepageId": "638c8a71-ffe3-404b-84b4-d2f34d3485f4"
@@ -29,6 +29,9 @@
     "domain": "lighthouse-geoje.kr",
     "realtimeBookingId": "https://map.naver.com/p/entry/place/1184325489",
     "ybsId": "76838",
+    "tripPropertyId": "8219",
+    "partnerType": "distributor_b",
+    "tripProviderName": "트립일레븐",
     "amenities": [
       "흡연구역(지정장소)",
       "주차장"
@@ -450,10 +453,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "tripPropertyId": "8219",
-    "partnerType": "distributor_b",
-    "tripProviderName": "트립일레븐"
+    ]
   },
   "rooms": [
     {
@@ -1624,6 +1624,35 @@
               "enabled": true
             }
           ]
+        },
+        "landing": {
+          "sections": [
+            {
+              "enabled": false,
+              "hero": {
+                "images": [ ]
+              },
+              "about": [
+                {
+                  "blockId": "sample-card-1",
+                  "propertyId": "sample-property-1",
+                  "propertyName": "현재 숙소",
+                  "title": "",
+                  "images": [ ],
+                  "order": 1
+                },
+                {
+                  "blockId": "sample-card-2",
+                  "propertyId": "sample-property-2",
+                  "propertyName": "연결 숙소 2",
+                  "domain": "http://localhost:8000/t-template-D",
+                  "title": "",
+                  "images": [ ],
+                  "order": 2
+                }
+              ]
+            }
+          ]
         }
       },
       "popup": {
@@ -1631,9 +1660,9 @@
       },
       "theme": {
         "font": {
+          "koMain": null,
           "koSub": null,
-          "enMain": null,
-          "koMain": null
+          "enMain": null
         },
         "color": null
       },
