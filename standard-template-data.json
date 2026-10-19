@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-10-12T02:56:21.454354622Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-10-19T10:19:45.977421436Z",
     "templateType": "trip_d",
     "propertyId": "56fcc70c-8743-4229-b0a3-ea04832291aa",
     "homepageId": "638c8a71-ffe3-404b-84b4-d2f34d3485f4"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 20시 이후 입실 시 사전 문의",
-    "usageGuide": "[공지사항]\n- 오션뷰 스파 가능\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 20시 이후 입실 시 사전 문의\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n- 유아(24개월 미만): 무료이나 인원에는 포함\n\n[공용바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 가스그릴\n- 이용 요금: 4인 기준 20,000원 2인 추가시 10,000원 추가 (1박기준/현장결제)\n- 신청 시간: 16:00 ~ 16:00\n- 이용 시간: 17:00 ~ 22:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n\n[공용수영장]\n- 운영 기간 : 26년 운영 종료 \n- 온도: 냉수, 미온수 25℃ \n- 이용 형태: 큰 수영장(미온수), 작은수영장(냉수) \n- 이용 요금: 무료\n- 이용 시간: 15:00 ~ 22:00\n- 이용 복장: 자유복장\n- 수영장 크기: 5m x 5m x 1.6m(큰 수영장)/5mx10mx1.3m(작은 수영장)\n※ 다이빙 금지\n※ 미온수 이용 필요 시 숙소로 사전 문의 필수\n\n[스파]\n- 이용 객실: 전객실\n- 스파 형태: 월풀스파\n- 수용 인원: 2명 ~ 4명\n- 이용 요금: 무료\n- 이용 시간: 입실후 ~ 22:00\n- 온도 조절: 가능\n- 입욕제 사용: 불가\n※ 입욕제 사용 시 10만원 벌금 부과\n\n[불멍]\n- 이용 요금: 객실당 20,000원(1박기준/현장결제)\n- 이용 시간: 17:00 ~ 23:00\n- 이용 장소: 식당 바로 앞\n\n[부대시설]\n[낚시체험]\n- 이용 요금: 10,000원(낚시대 포함) (1박기준/현장결제)\n- 이용 시간: 15:00 ~ 22:00\n- 장소: 바다 앞 도보 1분\n※ 사전 예약 및 현장 결제 가능\n※ 1객실 낚시대 1개 무료, 추가 시 10,000원\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 넷플릭스 이용 가능\n- OTT 이용 가능\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 객실 당 가능대수 10대\n\n[교통편]\n[자가용 이용시]\n- 거가대교방면 거가대교진입 터널진입  통영,시청 방면  가조도 방면  약 3.7KM직진 후 우회전  약2KM직진  거제 라이트하우스\n- 거제대교방면 거제대교진입  장승포,신현 방면  가조도방면  약 3.7KM직진 후 우회전  약2KM직진  거제 라이트하우스\n\n[대중교통 이용시]\n- 고현터미널 방면 고현버스터미널 정류장  43-1(고현.가조도.고현) 승차  실전상회 정류장 하차  약200M이동  거제 라이트하우스\n- 장승포터미널 방면 장승포버스터미널  문화상가 정류장  10(능포.고현)승차  고현버스터미널 하차  43-1(고현.가조도.고현) 승차  실전상회 정류장 하차  약200M이동  거제 라이트하우스",
+    "usageGuide": "- 오션뷰 스파 가능\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 20시 이후 입실 시 사전 문의\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 무료\n(1박기준/현장결제)\n- 유아(24개월 미만): 무료이나 인원에는 포함\n\n[공용바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 가스그릴\n- 이용 요금: 4인 기준 20,000원 2인 추가시 10,000원 추가 (1박기준/현장결제)\n- 신청 시간: 16:00 ~ 16:00\n- 이용 시간: 17:00 ~ 22:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n\n[공용수영장]\n- 운영 기간 : 26년 운영 종료 \n- 온도: 냉수, 미온수 25℃ \n- 이용 형태: 큰 수영장(미온수), 작은수영장(냉수) \n- 이용 요금: 무료\n- 이용 시간: 15:00 ~ 22:00\n- 이용 복장: 자유복장\n- 수영장 크기: 5m x 5m x 1.6m(큰 수영장)/5mx10mx1.3m(작은 수영장)\n※ 다이빙 금지\n※ 미온수 이용 필요 시 숙소로 사전 문의 필수\n\n[스파]\n- 이용 객실: 전객실\n- 스파 형태: 월풀스파\n- 수용 인원: 2명 ~ 4명\n- 이용 요금: 무료\n- 이용 시간: 입실후 ~ 22:00\n- 온도 조절: 가능\n- 입욕제 사용: 불가\n※ 입욕제 사용 시 10만원 벌금 부과\n\n[불멍]\n- 이용 요금: 객실당 20,000원(1박기준/현장결제)\n- 이용 시간: 17:00 ~ 23:00\n- 이용 장소: 식당 바로 앞\n\n[부대시설]\n[낚시체험]\n- 이용 요금: 10,000원(낚시대 포함) (1박기준/현장결제)\n- 이용 시간: 15:00 ~ 22:00\n- 장소: 바다 앞 도보 1분\n※ 사전 예약 및 현장 결제 가능\n※ 1객실 낚시대 1개 무료, 추가 시 10,000원\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 넷플릭스 이용 가능\n- OTT 이용 가능\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 객실 당 가능대수 10대\n\n[교통편]\n[자가용 이용시]\n- 거가대교방면 거가대교진입 터널진입  통영,시청 방면  가조도 방면  약 3.7KM직진 후 우회전  약2KM직진  거제 라이트하우스\n- 거제대교방면 거제대교진입  장승포,신현 방면  가조도방면  약 3.7KM직진 후 우회전  약2KM직진  거제 라이트하우스\n\n[대중교통 이용시]\n- 고현터미널 방면 고현버스터미널 정류장  43-1(고현.가조도.고현) 승차  실전상회 정류장 하차  약200M이동  거제 라이트하우스\n- 장승포터미널 방면 장승포버스터미널  문화상가 정류장  10(능포.고현)승차  고현버스터미널 하차  43-1(고현.가조도.고현) 승차  실전상회 정류장 하차  약200M이동  거제 라이트하우스",
     "reservationGuide": "- 오션뷰 스파 가능",
     "province": "도/시",
     "city": "시/군/구",
@@ -73,11 +73,60 @@
     },
     "facilities": [
       {
+        "id": "01a153ac-030b-773c-b814-5341e80738b9",
+        "name": "오션뷰",
+        "description": "전 객실 오션뷰 객실입니다.\n객실 내에서 탁 트인 남해바다를 눈으로 담아보세요.",
+        "usageGuide": "",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "01a153ac-12ab-7d54-ab36-d395542ce0c7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a153ac-030b-773c-b814-5341e80738b9/main/1792405147771-cgs4fs073q.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a153ac-11d7-7550-b87e-ba36d3f2f028",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a153ac-030b-773c-b814-5341e80738b9/main/1792405147764-nag4l3hbd3.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a153ac-12af-7472-930e-5179ca20413d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a153ac-030b-773c-b814-5341e80738b9/main/1792405147766-6r7yovqd68.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a153ac-12a7-7fe2-8475-58105f367388",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a153ac-030b-773c-b814-5341e80738b9/main/1792405147769-2llytcljj6.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a153ac-12a1-7d19-bcc8-9d9b800781e5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a153ac-030b-773c-b814-5341e80738b9/main/1792405147765-583l0x64l0.webp",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
         "id": "56ac62f8-072b-40eb-98b2-fc47831f0dd4",
         "name": "공용수영장",
         "description": "",
         "usageGuide": "- 운영 기간 : 26년 운영 종료 \n- 온도: 냉수, 미온수 25℃ \n- 이용 형태: 큰 수영장(미온수), 작은수영장(냉수) \n- 이용 요금: 무료\n- 이용 시간: 15:00 ~ 22:00\n- 이용 복장: 자유복장\n- 수영장 크기: 5m x 5m x 1.6m(큰 수영장)/5mx10mx1.3m(작은 수영장)\n※ 다이빙 금지\n※ 미온수 이용 필요 시 숙소로 사전 문의 필수",
-        "displayOrder": 0,
+        "displayOrder": 1,
         "images": [
           {
             "id": "708f766d-b258-4847-a07b-5b1b2b5cf79c",
@@ -110,14 +159,14 @@
         "name": "공용바베큐",
         "description": "",
         "usageGuide": "- 이용 객실: 전객실\n- 바베큐 형태: 가스그릴\n- 이용 요금: 4인 기준 20,000원 2인 추가시 10,000원 추가 (1박기준/현장결제)\n- 신청 시간: 16:00 ~ 16:00\n- 이용 시간: 17:00 ~ 22:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능",
-        "displayOrder": 1,
+        "displayOrder": 2,
         "images": [
           {
             "id": "ce4ce446-c0be-431b-aa22-4b309574cf52",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/447e7311-f346-4522-8438-b03c27ef48a6/main/1788144603950-tyn9v79smc.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": false,
+            "isSelected": true,
             "blockId": null
           },
           {
@@ -143,7 +192,7 @@
         "name": "스파",
         "description": "",
         "usageGuide": "- 이용 객실: 전객실\n- 스파 형태: 월풀스파\n- 수용 인원: 2명 ~ 4명\n- 이용 요금: 무료\n- 이용 시간: 입실후 ~ 22:00\n- 온도 조절: 가능\n- 입욕제 사용: 불가\n※ 입욕제 사용 시 10만원 벌금 부과",
-        "displayOrder": 2,
+        "displayOrder": 3,
         "images": [
           {
             "id": "ee2f0a33-2132-447c-8e66-2ce479537873",
@@ -184,7 +233,7 @@
         "name": "불멍",
         "description": "",
         "usageGuide": "- 이용 요금: 객실당 20,000원(1박기준/현장결제)\n- 이용 시간: 17:00 ~ 23:00\n- 이용 장소: 식당 바로 앞",
-        "displayOrder": 3,
+        "displayOrder": 4,
         "images": [
           {
             "id": "85e1302d-5d9e-4e50-bdf1-d9e3769ad4d9",
@@ -217,7 +266,7 @@
         "name": "부대시설",
         "description": "",
         "usageGuide": "[낚시체험]\n- 이용 요금: 10,000원(낚시대 포함) (1박기준/현장결제)\n- 이용 시간: 15:00 ~ 22:00\n- 장소: 바다 앞 도보 1분\n※ 사전 예약 및 현장 결제 가능\n※ 1객실 낚시대 1개 무료, 추가 시 10,000원",
-        "displayOrder": 4,
+        "displayOrder": 5,
         "images": [
           {
             "id": "09310013-2170-4db5-8f3b-5cc6df4f11c5",
@@ -250,12 +299,20 @@
         "name": "편의 및 주변 시설",
         "description": "",
         "usageGuide": "- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 넷플릭스 이용 가능\n- OTT 이용 가능",
-        "displayOrder": 5,
+        "displayOrder": 6,
         "images": [
+          {
+            "id": "01a153ab-5dbb-781d-9fb0-77700772d670",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48efd093-c464-4904-9548-c1d1b1921a87/main/1792405101535-yzp3hpa448.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
           {
             "id": "304632ae-0cb4-4cda-9b6e-e395b2a0aef5",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48efd093-c464-4904-9548-c1d1b1921a87/main/1788144605734-lnmokqh1n7.webp",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -263,7 +320,7 @@
           {
             "id": "2d3f7177-c81e-42b8-914f-ab7af13379ce",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48efd093-c464-4904-9548-c1d1b1921a87/main/1788144605738-gnqfbydkq8.webp",
-            "sortOrder": 1,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -271,7 +328,7 @@
           {
             "id": "aa707a08-21da-48ba-bb25-1af711b2d62d",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48efd093-c464-4904-9548-c1d1b1921a87/main/1788144605736-h6ps6c9vnc.webp",
-            "sortOrder": 2,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -279,7 +336,7 @@
           {
             "id": "2f31c770-8a74-4c53-bba7-40f20bede7b5",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48efd093-c464-4904-9548-c1d1b1921a87/main/1788144605735-07wltko8w0.webp",
-            "sortOrder": 3,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -287,7 +344,7 @@
           {
             "id": "795d33f4-65a6-42c1-aaa6-85d5c8ea62ee",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48efd093-c464-4904-9548-c1d1b1921a87/main/1788144605737-9wfg98ehdw.webp",
-            "sortOrder": 4,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -295,7 +352,7 @@
           {
             "id": "9e9c4566-fc6a-4640-9a9a-02d69bc359fd",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48efd093-c464-4904-9548-c1d1b1921a87/main/1788144605738-vbiw43fx6z.webp",
-            "sortOrder": 5,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -303,7 +360,7 @@
           {
             "id": "b5ee373f-63e2-4de4-aa69-37b26d7d09be",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48efd093-c464-4904-9548-c1d1b1921a87/main/1788144605739-j3m5ulx3b8.webp",
-            "sortOrder": 6,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -370,7 +427,7 @@
           {
             "id": "de2a57ea-514b-46ca-9d66-b9aef90db2b7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/TeLEGbzS1BHk.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -380,7 +437,7 @@
           {
             "id": "9ab86320-71e0-4975-a29c-5ecc46b99dfd",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/TM4dJ8U9lFbN.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -388,7 +445,7 @@
           {
             "id": "5c6599dc-0e25-4771-af9b-f8010fb631eb",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/oJf89blUQ3F5.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -396,7 +453,7 @@
           {
             "id": "5a796efc-a3bf-4c76-a0fa-29f1d276dccb",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/7Jk4vWuyTPh8.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -404,7 +461,7 @@
           {
             "id": "5db73f61-9b80-47b5-95fa-531a748f924e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/LKFJQdhot8gR.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -412,7 +469,7 @@
           {
             "id": "79a6bd3d-68ed-4aad-bcc9-9c6d99d0a625",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/fOD3WqY1J0ES.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -420,7 +477,7 @@
           {
             "id": "2a98c92b-978f-46b4-b18d-e80492c7a8e7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/KhRdpjfauCcm.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -428,7 +485,7 @@
           {
             "id": "7b6547dd-55be-4083-a322-e45e09d7dc25",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/8XG1b3BqjHfU.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -436,7 +493,7 @@
           {
             "id": "62463c73-2528-4a96-afdc-44b73d75f120",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/9gUFTR8HXPfl.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -444,7 +501,7 @@
           {
             "id": "d2e1e0d1-3203-4534-afcf-4d475a689b2f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/IhX9Nmr0U2L6.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1626,33 +1683,7 @@
           ]
         },
         "landing": {
-          "sections": [
-            {
-              "enabled": false,
-              "hero": {
-                "images": [ ]
-              },
-              "about": [
-                {
-                  "blockId": "sample-card-1",
-                  "propertyId": "sample-property-1",
-                  "propertyName": "현재 숙소",
-                  "title": "",
-                  "images": [ ],
-                  "order": 1
-                },
-                {
-                  "blockId": "sample-card-2",
-                  "propertyId": "sample-property-2",
-                  "propertyName": "연결 숙소 2",
-                  "domain": "http://localhost:8000/t-template-D",
-                  "title": "",
-                  "images": [ ],
-                  "order": 2
-                }
-              ]
-            }
-          ]
+          "sections": [ ]
         }
       },
       "popup": {
